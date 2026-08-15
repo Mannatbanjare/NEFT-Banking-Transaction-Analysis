@@ -1,5 +1,3 @@
-# NEFT-Banking-Transaction-Analysis
-
 ![NEFT Banking Transaction Analysis](images/banner.png)
 
 # NEFT Banking Transaction Analysis
