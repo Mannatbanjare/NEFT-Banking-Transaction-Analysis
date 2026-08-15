@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.env.local
+credentials.json
+
+# Large / temp exports (uncomment if you don't want these tracked)
+# data/processed/*.csv
